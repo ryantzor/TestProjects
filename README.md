@@ -4,4 +4,4 @@ a series of my test projects either for coding interviews, or for quick sample p
 
 ### Stack
 > Mostly .NET
-> Will add more later
+> XUnit framework for testing
